@@ -2,7 +2,7 @@
 ---
 **<font size=2 >Current Version: 2.0 Release date: December 16, 2022</font>**
 
-The run_BSA_analysis is written in Python, which is used to bulked segregant analysis of mixed bulk files after variant calling. Only enter the mixed-bulk SNP loci information table, mixed-bulk VCF file or mixed-bulk BAMlist file, which can generate SNP loci depth plot, allele distribution frequency distribution plot, SNP loci distribution plot along chromosome, deltaSNPindex along chromosome distribution plot, and QTL interval information that breaks the threshold.
+The run_BSA_analysis is written in Python, which is used to bulked segregant analysis of mixed bulk files after variant calling.Only by inputting the FASTQ files of the high and low bulks in the separation population, we can generate SNP loci depth plot, allele distribution frequency distribution plot, SNP loci distribution plot along chromosome, deltaSNPindex along chromosome distribution plot, and QTL interval information that breaks the threshold.
 ## lastest version：run_BSAanalysis  V2.0
 ---
 - **Major updates**
